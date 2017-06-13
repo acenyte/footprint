@@ -6,6 +6,8 @@
   font-style: normal;
 }
 
+/*-- Start-- */
+
 body{
 	background-color: #CAC7C7;
 	margin:0px;
@@ -728,4 +730,3 @@ text-decoration:none;
             .home .demo-gallery {
               padding-bottom: 80px;
             }
-	

@@ -372,7 +372,7 @@ text-decoration:none;
 	background-color: rgba(0, 0, 0, 0.35);
 	height: 40px;
 	border-radius:8px;
-	width: 288px;
+	width: 324px;
 }
 
 #itemInfo li{
@@ -423,7 +423,7 @@ text-decoration:none;
 	padding: 0px;
 	font-family: "MyriadPro-Regular",Helvetica,sans-serif;
 	pointer-events: none;
-	margin: 0px 0px 110px 0px;
+	margin: 0px 0px 90px 0px;
 }
 
 .submenu ul a{

@@ -1,4 +1,7 @@
 .DS_Store
-/npm-debug.log
-/examples
-/source-files
+._*
+Thumbs.db
+desktop.ini
+dist/
+node_modules/
+.env

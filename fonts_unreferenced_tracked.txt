@@ -1,0 +1,4 @@
+﻿dist/fonts/lg.eot
+dist/fonts/lg.svg
+dist/fonts/lg.ttf
+dist/fonts/lg.woff

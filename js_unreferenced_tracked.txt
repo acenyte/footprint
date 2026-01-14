@@ -1,0 +1,16 @@
+﻿dist/js/lg-autoplay.min.js
+dist/js/lg-fullscreen.min.js
+dist/js/lg-hash.min.js
+dist/js/lg-pager.min.js
+dist/js/lg-thumbnail.min.js
+dist/js/lg-video.min.js
+dist/js/lg-zoom.min.js
+dist/js/lightgallery-all.js
+dist/js/lightgallery-all.min.js
+dist/js/lightgallery.min.js
+js/minified/jquery-1.11.0.min.js
+js/minified/jquery-1.9.1.min.js
+js/minified/jquery-ui-1.10.4.min.js
+js/minified/jquery.mousewheel-3.0.6.min.js
+js/uncompressed/jquery.mousewheel-3.0.6.js
+js/uncompressed/jquery.mousewheel.js

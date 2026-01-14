@@ -1,6 +1,0 @@
-﻿dist/css/lg-fb-comment-box.css
-dist/css/lg-fb-comment-box.min.css
-dist/css/lg-transitions.css
-dist/css/lg-transitions.min.css
-dist/css/lightgallery.min.css
-jquery.mCustomScrollbar.min.css

@@ -1,0 +1,22 @@
+Deleted on: 2026-01-14T10:47:24.5766220+02:00
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\css_unreferenced_tracked.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\deleted_unreferenced_permanent.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\dotunderscore_deleted.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\dotunderscore_deleted_more.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\dotunderscore_remaining.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\dotunderscore_status.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\dotunderscore_untracked.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\failed_unreferenced_permanent.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\fav_list.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\fonts_list.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\fonts_unreferenced_tracked.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\images_list.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\images_unreferenced_tracked.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\js_list.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\js_unreferenced_tracked.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\scripts\permanent_delete_unreferenced.ps1
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\scripts\scan_unreferenced.ps1
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\tracked_assets.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\tracked_files.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\videos_list.txt
+C:\Users\adria\OneDrive\Desktop\Projects\footprint\videos_unreferenced_tracked.txt
